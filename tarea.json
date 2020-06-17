@@ -1,0 +1,23 @@
+
+   [
+    {
+     "titulo": "Practicar el switch",
+     "descripcion": "Entender para que usarlo",
+     "estado": "pendiente"
+    },
+    {
+     "titulo": "Practicar el for",
+     "descripcion": "Entender como se usa",
+     "estado": "en proceso"
+    },
+    {
+     "titulo": "Objeto literal vs JSON",
+     "descripcion": "Que tienen de diferente",
+     "estado": "terminado"
+    },
+    {
+     "titulo": "Refactorear con un forEach()",
+     "descripcion": "Magic",
+     "estado": "pendiente"
+    }
+   ]
